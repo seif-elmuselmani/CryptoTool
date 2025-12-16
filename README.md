@@ -28,11 +28,8 @@ This tool offers a robust implementation of various cryptographic techniques:
 
 ## 📸 Screenshots
 
-| **Main Dashboard** | **Encryption Interface** |
-|:---:|:---:|
-| ![Main UI](assets/menu_screenshot.png) | ![Cipher UI](assets/encryption_screenshot.png) |
-
-*(**Note:** Please ensure you have two images in the `assets` folder: `menu_screenshot.png` and `encryption_screenshot.png`)*
+### Main Application Interface
+![Main Dashboard](assets/screenshot1.png)
 
 ---
 
@@ -65,15 +62,13 @@ This tool offers a robust implementation of various cryptographic techniques:
 
 ---
 
-## 👨‍💻 Author
-
-**Seif El-Din Mohamed**
-* *Backend Developer | .NET Enthusiast | Python*
-* Trying to make the world more secure, one line of code at a time.
+## 👥 Authors
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Seif%20ElMuselmani-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seif-elmuselmani/)
-[![GitHub](https://img.shields.io/badge/GitHub-Seif%20ElMuselmani-black?style=for-the-badge&logo=github)](https://github.com/seif-elmuselmani)
+| **Seif El-Din Mohamed** | **Mohamed Essam** |
+| :---: | :---: |
+| *Backend Developer & Architect* | *Software Engineer & Contributor* |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seif-elmuselmani/) | *Collaborator* |
 
 </div>
