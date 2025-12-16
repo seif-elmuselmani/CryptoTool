@@ -68,7 +68,8 @@ This tool offers a robust implementation of various cryptographic techniques:
 
 | **Seif El-Din Mohamed** | **Mohamed Essam** |
 | :---: | :---: |
-| *Backend Developer & Architect* | *Software Engineer & Contributor* |
+| *Software Engineer & Architect* | *Software Engineer & Contributor* |
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seif-elmuselmani/) | *Collaborator* |
 
 </div>
+
