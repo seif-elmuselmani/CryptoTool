@@ -4,7 +4,7 @@
 
 **CryptoTool** is a comprehensive cryptographic simulation software developed to bridge the gap between classical ciphers and modern encryption standards. It provides a clean, user-friendly interface to visualize how data is transformed securely.
 
-> **Project Context:** Developed as a graduation project component to demonstrate mastery of algorithmic logic, data security concepts (DES/AES), and software architecture.
+> **Project Context:** Developed as a personal project to demonstrate mastery of algorithmic logic, data security concepts (DES/AES), and software architecture.
 
 ---
 
